@@ -38,6 +38,7 @@ public class PalindromeDetector {
 
     public static void main(String[] args) throws FileNotFoundException {
         File file = new File("palindromes.txt");
+        //file :you can create
         /* Scanner scanner = new Scanner(file);
         MyDeque<String> my = new MyDeque<String>();
         while (scanner.hasNextLine()) {
