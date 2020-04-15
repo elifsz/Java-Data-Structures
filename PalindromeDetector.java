@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 /**
  *
- * @author elif şahingöz
+ * @author elif
  */
 public class PalindromeDetector {
 
